@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hoangphivo97.github.io/csb-b452j/static/css/main.02200703.chunk.css",
+    "main.js": "https://hoangphivo97.github.io/csb-b452j/static/js/main.d0ff1499.chunk.js",
+    "main.js.map": "https://hoangphivo97.github.io/csb-b452j/static/js/main.d0ff1499.chunk.js.map",
+    "runtime-main.js": "https://hoangphivo97.github.io/csb-b452j/static/js/runtime-main.c442996c.js",
+    "runtime-main.js.map": "https://hoangphivo97.github.io/csb-b452j/static/js/runtime-main.c442996c.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://hoangphivo97.github.io/csb-b452j/static/css/2.cbedb215.chunk.css",
+    "static/js/2.2727c5a8.chunk.js": "https://hoangphivo97.github.io/csb-b452j/static/js/2.2727c5a8.chunk.js",
+    "static/js/2.2727c5a8.chunk.js.map": "https://hoangphivo97.github.io/csb-b452j/static/js/2.2727c5a8.chunk.js.map",
+    "index.html": "https://hoangphivo97.github.io/csb-b452j/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://hoangphivo97.github.io/csb-b452j/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.02200703.chunk.css.map": "https://hoangphivo97.github.io/csb-b452j/static/css/main.02200703.chunk.css.map",
+    "static/js/2.2727c5a8.chunk.js.LICENSE.txt": "https://hoangphivo97.github.io/csb-b452j/static/js/2.2727c5a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c442996c.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.2727c5a8.chunk.js",
+    "static/css/main.02200703.chunk.css",
+    "static/js/main.d0ff1499.chunk.js"
+  ]
+}
